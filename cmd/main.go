@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/Aidahar/todo-app/tree/main/pkg/handler"
 	"github.com/aidahar/todo-app"
-	"github.com/aidahar/todo-app/pkg/handler/"
 	"log"
 )
 
